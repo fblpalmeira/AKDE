@@ -8,7 +8,7 @@ We quantified the activity pattern and temporal overlap among the apex predator 
 
 - [Script `.R`](https://github.com/fblpalmeira/AKDE/blob/main/data/ctmm_20.R)
 
-- [Database `.csv`]()
+- [Database `.csv`](https://github.com/fblpalmeira/AKDE/blob/main/data/vinte.txt)
 
 <img src="">
 
