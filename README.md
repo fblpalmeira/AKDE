@@ -4,7 +4,7 @@
 
 # Day 28 (28 April 2022) | Deviations
 
-An animation showing the movement of nine individuals of jaguar which were tracked at the same time in the Brazilian Pantanal wetland using "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
+Estimating home range of a jaguar using "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
 
 - [Script `.R`](https://github.com/fblpalmeira/AKDE/blob/main/data/ctmm_20.R)
 
